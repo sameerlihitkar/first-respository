@@ -1,0 +1,2 @@
+THis is the sample text file.
+For the purpose of github.
